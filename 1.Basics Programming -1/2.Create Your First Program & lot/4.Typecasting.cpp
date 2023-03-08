@@ -4,7 +4,7 @@ int main(){
    char a=1024;
    cout<<a<<endl;
 
-    // implicit conver sion 
+    // implicit conversion 
     char ch=97;
     cout<<ch<<endl;
 
